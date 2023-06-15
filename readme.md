@@ -6,6 +6,7 @@
 **TLDR**: This is a web app that lets you describe/ask GPT3.5/4 for code. The generated code will be automatically run for you and the output will be displayed.
 You can even make graphs and charts with this.
 
+**There are a lot of files, but you only need to care about [main.py](https://github.com/andrewgcodes/AICodeInterpreter/blob/main/main.py).**
 Quickstart via Repl.it:
 - The easiest way to get started is to fork this [repl](replit.com/@olafblitz/codeinterpreter).
 - In the Shell, do pip install streamlit.
