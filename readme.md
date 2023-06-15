@@ -1,5 +1,5 @@
 # Open Source AI Code Interpreter
-![img](stringstuff.jpeg)
+![img](images/stringstuff.jpeg)
 
 **If there's interest (50 stars), I'll add more features!**
 
@@ -19,7 +19,7 @@ Local Installation:
 - Set your OpenAI API key as a local variable.
 
 ## Making a pie chart
-![img](piechart.png)
+![img](images/piechart.png)
 
 ## Making a bar chart
-![img](chartmaking.jpeg)
+![img](images/chartmaking.jpeg)
