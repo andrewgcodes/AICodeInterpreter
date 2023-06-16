@@ -18,6 +18,9 @@ Local Installation:
 - You can also run the code locally. It's a Streamlit app so just run pip install streamlit, streamlit main.py, and download necessary packages with pip.
 - Set your OpenAI API key as a local variable.
 
+## Safety warning
+You should not let other people use your copy of the Code Interpreter since exec() could be used to run malicious code.
+One way to prevent this is to restrict exec() to only using a couple defined functions but this limits the flexibility of what it can do for you.
 ## Making a pie chart
 ![img](images/piechart.png)
 
